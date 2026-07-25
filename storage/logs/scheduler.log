@@ -1,0 +1,127 @@
+
+   INFO  No scheduled commands are ready to run.  
+
+
+  2026-07-15 22:33:04 Running ['artisan' appointments:send-reminders]  176.80ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:34:03 Running ['artisan' appointments:send-reminders]  51.97ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:35:05 Running ['artisan' appointments:send-reminders]  52.86ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:36:03 Running ['artisan' appointments:send-reminders]  47.09ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:37:03 Running ['artisan' appointments:send-reminders]  45.33ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:38:03 Running ['artisan' appointments:send-reminders]  68.11ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:39:03 Running ['artisan' appointments:send-reminders]  78.07ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:40:05 Running ['artisan' appointments:send-reminders]  64.12ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:41:04 Running ['artisan' appointments:send-reminders]  101.92ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:42:05 Running ['artisan' appointments:send-reminders]  38.63ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:43:03 Running ['artisan' appointments:send-reminders]  194.32ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:44:05 Running ['artisan' appointments:send-reminders]  72.78ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:45:05 Running ['artisan' appointments:send-reminders]  79.31ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:46:04 Running ['artisan' appointments:send-reminders]  113.87ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:47:04 Running ['artisan' appointments:send-reminders]  69.98ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:48:06 Running ['artisan' appointments:send-reminders]  72.11ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:49:02 Running ['artisan' appointments:send-reminders]  170.21ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:50:05 Running ['artisan' appointments:send-reminders]  49.71ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:51:02 Running ['artisan' appointments:send-reminders]  732.66ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:52:03 Running ['artisan' appointments:send-reminders]  229.57ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:53:03 Running ['artisan' appointments:send-reminders]  176.74ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:54:03 Running ['artisan' appointments:send-reminders]  177.38ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:55:04 Running ['artisan' appointments:send-reminders]  48.53ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:56:02 Running ['artisan' appointments:send-reminders]  109.59ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:57:02 Running ['artisan' appointments:send-reminders]  37.63ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:58:03 Running ['artisan' appointments:send-reminders]  163.64ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 22:59:02 Running ['artisan' appointments:send-reminders]  136.37ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 23:00:04 Running ['artisan' appointments:send-reminders]  52.18ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 23:01:04 Running ['artisan' appointments:send-reminders]  253.94ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 23:02:03 Running ['artisan' appointments:send-reminders]  286.96ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
+
+  2026-07-15 23:03:02 Running ['artisan' appointments:send-reminders]  42.17ms DONE
+  ⇂ '/opt/cpanel/ea-php84/root/usr/bin/php.cagefs' 'artisan' appointments:send-reminders > '/dev/null' 2>&1  
+
